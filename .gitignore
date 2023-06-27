@@ -1,0 +1,4 @@
+*.jpg
+*.png
+*.jpeg
+api/cv/similarity_model/weights
